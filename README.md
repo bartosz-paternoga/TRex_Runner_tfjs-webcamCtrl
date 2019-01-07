@@ -1,1 +1,1 @@
-TRex Runner controled with webcam.
+TRex Runner controlled with webcam.
